@@ -2,6 +2,8 @@ latte
 riso
 birra
 caffè
+mele
+pere
 
 zucchero 
 limone
@@ -18,4 +20,6 @@ pinoli
 miele
 rum
 
+
 latte delattosato
+
