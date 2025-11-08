@@ -2,6 +2,8 @@ latte
 riso
 birra
 caffè
+mele
+pere
 
 zucchero 
 limone
